@@ -11,5 +11,5 @@ script for : public ip of site,
   <h3>windows: 
   open comd, set the path and type below:
  ```
-python main.py start
+python3 main.py start
 ```
