@@ -9,7 +9,8 @@ script for : public ip of site,
 <h1> Quick Start
   
   <h3>windows: 
-  open comd, set the path and type below:
+  open comd, set the desktop path path and type below:
  ```
- $ python main.py start
+  cd Desktop
+  python main.py start
 ```
