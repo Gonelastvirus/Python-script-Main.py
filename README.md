@@ -5,7 +5,8 @@ script for : public ip of site,
              scan IP's connected on your wifi,
              zip file pswd cracker,
              image meta data extract
-#Quick Start
-  #windows: 
+<h1>Quick Start</h1>
+<br>
+  <h3>windows:</h3> 
   <br>
     python main.py start
