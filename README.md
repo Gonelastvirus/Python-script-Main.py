@@ -9,9 +9,5 @@ script for : public ip of site,
 <h1> Quick Start
   
   <h3>windows: 
-  open comd, set the desktop path path and type below:
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+  <br>
+ 
