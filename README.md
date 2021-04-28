@@ -10,4 +10,4 @@ script for : public ip of site,
   
   <h3>windows: 
   <br>
- 
+ python main.py start
