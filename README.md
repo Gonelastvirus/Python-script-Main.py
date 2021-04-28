@@ -10,7 +10,8 @@ script for : public ip of site,
   
   <h3>windows: 
   open comd, set the desktop path path and type below:
- ```
-  cd Desktop
-  python main.py start
+```
+$ cd ../lorem
+$ npm install
+$ npm start
 ```
