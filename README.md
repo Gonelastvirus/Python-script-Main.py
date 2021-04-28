@@ -8,5 +8,5 @@ script for : public ip of site,
 
 <h1> Quick Start
   
-  windows: 
-  python main.py start
+  <h3>windows: 
+   *python main.py start
